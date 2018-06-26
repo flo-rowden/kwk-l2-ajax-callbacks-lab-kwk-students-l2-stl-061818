@@ -8,4 +8,4 @@ function searchRepositories() {
     $('searchTerms'); data => {
       $('#results').html();
     }
-}
+} 
